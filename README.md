@@ -10,42 +10,18 @@ My learning journey focuses on understanding how networks operate, how systems c
 🌐 Computer Networking — TCP/IP, OSI Model, IPv4/IPv6, Subnetting, VLANs, Routing & Switching, DNS, DHCP, NAT
 🛡️ Cybersecurity — Security fundamentals, common attacks, vulnerabilities, threat awareness and defensive security
 🐧 Linux — Linux administration, command line, permissions, processes, networking tools and system troubleshooting
-🚨 SOC Analysis — Log analysis, alert investigation, incident detection, SIEM fundamentals and security monitoring
 🔎 Ethical Hacking — Reconnaissance, vulnerability assessment, web security fundamentals and penetration-testing concepts
 📡 Network Security — Firewalls, network monitoring, traffic analysis and basic intrusion detection
 🎓 Certifications & Learning Goals
-📘 CCNA — Networking fundamentals and network infrastructure
-🐧 Linux — Linux administration and troubleshooting
-🛡️ CEH — Ethical hacking and cybersecurity fundamentals
-🚨 SOC Analyst — Security monitoring, alert investigation and incident response
-🧪 Hands-On Learning
+
 
 I use GitHub to document my learning journey through:
-
 🔬 Networking and cybersecurity labs
 🐧 Linux practice and administration notes
 🌐 CCNA concepts and networking exercises
 🔎 Wireshark packet-analysis exercises
-🚨 SOC investigation scenarios
-📊 Log-analysis and SIEM practice
 🛡️ Security tools and command-line practice
 📝 Technical notes, write-ups and CTF-style challenges
 🚀 Current Focus
 
 I'm currently working on strengthening my fundamentals in Networking + Linux + Cybersecurity and developing the practical skills required for an entry-level SOC Analyst role.
-
-**Learn → Practice →
-<!--
-**patilvaibhav0027/patilvaibhav0027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
